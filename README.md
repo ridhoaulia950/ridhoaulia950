@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ridhoaulia950
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Halo.. my name is Ridhoaulia950
+- 👀 I am interested in technologies
+- 🌱 I’m currently learning technologies
+- 💞️ I’m looking to collaborate on technologies
+- 📫 You can reach me in your dream :D
 
 <!---
 ridhoaulia950/ridhoaulia950 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
