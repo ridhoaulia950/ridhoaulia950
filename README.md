@@ -1,4 +1,4 @@
-- 👋 Halo.. my name is Ridhoaulia950
+- 👋 Halo.. my name is Ridho
 - 👀 I am interested in technologies
 - 🌱 I’m currently learning technologies
 - 💞️ I’m looking to collaborate on technologies
